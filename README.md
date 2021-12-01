@@ -51,7 +51,7 @@ Microsoft releases free Windows virtual machines for development (with the catch
 These can be downloaded here:  
 https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
 
-I used VirtualBox and the resulting virtual machine was 50GB in size so one should provide enough disk space in advance.
+VirtualBox was used and the resulting virtual machine was 50GB (!) in size.
 
 In Windows, to build the ".exe" file,
 
