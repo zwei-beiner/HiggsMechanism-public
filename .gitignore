@@ -1,0 +1,11 @@
+.DS_Store
+.idea/
+/venv/
+/Documentation/Theoretical Background/Theoretical_Background.aux
+/Documentation/Theoretical Background/Theoretical_Background.bbl
+/Documentation/Theoretical Background/Theoretical_Background.bcf
+/Documentation/Theoretical Background/Theoretical_Background.blg
+/Documentation/Theoretical Background/Theoretical_Background.log
+/Documentation/Theoretical Background/Theoretical_Background.out
+/Documentation/Theoretical Background/Theoretical_Background.run.xml
+/Documentation/Theoretical Background/Theoretical_Background.synctex.gz
